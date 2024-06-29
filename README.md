@@ -6,7 +6,7 @@ Ferramentas utilizadas para esse desafio são:
   - [Img2go](https://www.img2go.com/pt/converter-video-para-gif)
   - [LightShot](https://app.prntscr.com/pt-br/download.html)
   - [Snipping Tool](https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=en-mt&gl=MT)
-  - [Devtools-Chrome]("https://developer.chrome.com/docs/devtools?hl=pt-br")
+  - [Devtools-Chrome](https://developer.chrome.com/docs/devtools?hl=pt-br)
 
 ## Desafio 1: 
 
